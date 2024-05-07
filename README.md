@@ -1,13 +1,17 @@
-# Projects
+# Introduction
 
-<h1 align="center">Hi 👋, I'm Kyle. I have high interests in hospitality, gaming and sports. Welcome to my data science portfolio repository! Explore a collection of my projects showcasing my skills in data analysis, machine learning, and data visualization. From predictive modeling to exploratory data analysis, these projects demonstrate my ability to derive insights from data and solve real-world problems. </h1>
+<h1 align="center">Hi 👋, I'm Kyle. I have high interests in hospitality, gaming and sports. Welcome to my data science portfolio repository! Explore a collection of my projects showcasing my skills in data analysis, machine learning, and data visualization. From predictive modeling to exploratory data analysis, these projects demonstrate my ability to derive insights from data and solve real-world problems.</h1>
 <h3 align="center">A passionate data analyst from Japan, currently residing in Las Vegas, looking to transition into data science</h3>
 
 - 🔭 I’m currently working on **Predicting Adoptability of Pets**
 
 - 🌱 I’m currently learning **Time Series Analysis and a deeper look into XGBoost**
 
+- 📱 Linkedin **linkedin.com/in/kylereedy0615/**
+
 - 📫 How to reach me **kaito.reedy@gmail.com**
+
+- 📄 Know about my experiences (resume link): [https://docs.google.com/document/d/1dPBttikSESmklCTAEBPlDuPZnfFZPlFD/edit?usp=sharing&ouid=106471916361982812336&rtpof=true&sd=true](https://docs.google.com/document/d/1dPBttikSESmklCTAEBPlDuPZnfFZPlFD/edit?usp=sharing&ouid=106471916361982812336&rtpof=true&sd=true)
 
 - ⚡ Fun fact **I've played soccer and tennis for 20 years**
 
